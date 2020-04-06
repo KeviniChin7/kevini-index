@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "photo",
+      "type": "com.kev.autosettingdemo.biying.SpiderEntity",
+      "sourceType": "com.kev.autosettingdemo.biying.SpiderEntity"
+    }
+  ],
+  "properties": [
+    {
+      "name": "photo.name-list",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.kev.autosettingdemo.biying.SpiderEntity"
+    },
+    {
+      "name": "photo.url-list",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.kev.autosettingdemo.biying.SpiderEntity"
+    }
+  ],
+  "hints": []
+}

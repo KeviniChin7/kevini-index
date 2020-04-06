@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5be9bf4e-c37a-4d53-aaff-cc7e84f1f50a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RgmUqti2o6lOiChmyfOrePfAOg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kev.autosettingdemo" />
+      <recent name="com.kev.autosettingdemo.biying" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kev.autosettingdemo.biying" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\auto-setting-demo\src\main\resources" />
+      <recent name="D:\IdeaProject\auto-setting-demo" />
+      <recent name="D:\IdeaProject\auto-setting-demo\src\main\resources\static\img" />
+      <recent name="D:\IdeaProject\auto-setting-demo\src\main\resources\static" />
+      <recent name="D:\IdeaProject\auto-setting-demo\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AutoSettingDemoApplication">
+    <configuration name="SpiderBiYing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kev.autosettingdemo.biying.SpiderBiYing" />
+      <module name="auto-setting-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kev.autosettingdemo.biying.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoSettingDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-setting-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kev.autosettingdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kev.autosettingdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.kev.autosettingdemo.AutoSettingDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auto-setting-demo-0.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/auto-setting-demo-0.0.1-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AutoSettingDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auto-setting-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kev.autosettingdemo.AutoSettingDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoSettingDemoApplicationTests.contextLoads" />
+        <item itemvalue="Application.SpiderBiYing" />
+        <item itemvalue="JAR Application.auto-setting-demo-0.0.1-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be9bf4e-c37a-4d53-aaff-cc7e84f1f50a" name="Default Changelist" comment="" />
+      <created>1570097131413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570097131413</updated>
+      <workItem from="1570097136590" duration="3252000" />
+      <workItem from="1570150067556" duration="3024000" />
+      <workItem from="1570266484222" duration="15423000" />
+      <workItem from="1570932225698" duration="31000" />
+      <workItem from="1577591705597" duration="2070000" />
+      <workItem from="1577846991692" duration="2462000" />
+      <workItem from="1578097236188" duration="3449000" />
+      <workItem from="1578400909659" duration="1407000" />
+      <workItem from="1578402717073" duration="2633000" />
+      <workItem from="1579257669866" duration="153000" />
+      <workItem from="1579258014724" duration="633000" />
+      <workItem from="1579310999274" duration="8018000" />
+      <workItem from="1584153864323" duration="99000" />
+      <workItem from="1585224341735" duration="1758000" />
+      <workItem from="1585226140373" duration="673000" />
+      <workItem from="1585226899209" duration="4074000" />
+      <workItem from="1585282064509" duration="128000" />
+      <workItem from="1585282294576" duration="101000" />
+      <workItem from="1585303982630" duration="7522000" />
+      <workItem from="1585458527370" duration="14802000" />
+      <workItem from="1585561675404" duration="2782000" />
+      <workItem from="1585564479040" duration="1411000" />
+      <workItem from="1585566003057" duration="2710000" />
+      <workItem from="1585734568183" duration="8000" />
+      <workItem from="1585985059735" duration="794000" />
+      <workItem from="1585989229085" duration="2607000" />
+      <workItem from="1585999660183" duration="1862000" />
+      <workItem from="1586059915094" duration="577000" />
+      <workItem from="1586062046857" duration="454000" />
+      <workItem from="1586074722371" duration="1114000" />
+      <workItem from="1586174483666" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586060209984">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state x="659" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1600.965@0.23.1600.965" timestamp="1586060209984" />
+    <state x="388" y="167" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1586060171965">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state x="388" y="167" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1600.965@0.23.1600.965" timestamp="1586060171965" />
+    <state width="1558" height="389" key="GridCell.Tab.0.bottom" timestamp="1586062501151">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.0.bottom/0.23.1600.965@0.23.1600.965" timestamp="1586062501151" />
+    <state width="1558" height="389" key="GridCell.Tab.0.center" timestamp="1586062501150">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.0.center/0.23.1600.965@0.23.1600.965" timestamp="1586062501150" />
+    <state width="1558" height="389" key="GridCell.Tab.0.left" timestamp="1586062501150">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.0.left/0.23.1600.965@0.23.1600.965" timestamp="1586062501150" />
+    <state width="1558" height="389" key="GridCell.Tab.0.right" timestamp="1586062501151">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.0.right/0.23.1600.965@0.23.1600.965" timestamp="1586062501151" />
+    <state width="1558" height="389" key="GridCell.Tab.1.bottom" timestamp="1586062501152">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.1.bottom/0.23.1600.965@0.23.1600.965" timestamp="1586062501152" />
+    <state width="1558" height="389" key="GridCell.Tab.1.center" timestamp="1586062501151">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.1.center/0.23.1600.965@0.23.1600.965" timestamp="1586062501151" />
+    <state width="1558" height="389" key="GridCell.Tab.1.left" timestamp="1586062501151">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.1.left/0.23.1600.965@0.23.1600.965" timestamp="1586062501151" />
+    <state width="1558" height="389" key="GridCell.Tab.1.right" timestamp="1586062501152">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state width="1558" height="389" key="GridCell.Tab.1.right/0.23.1600.965@0.23.1600.965" timestamp="1586062501152" />
+    <state x="298" y="154" key="SettingsEditor" timestamp="1586174537601">
+      <screen x="0" y="23" width="1544" height="1043" />
+    </state>
+    <state x="298" y="154" key="SettingsEditor/0.23.1544.1043@0.23.1544.1043" timestamp="1586174537601" />
+    <state x="309" y="144" key="SettingsEditor/0.23.1600.965@0.23.1600.965" timestamp="1586075994773" />
+    <state x="495" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1586059916581">
+      <screen x="0" y="23" width="1600" height="965" />
+    </state>
+    <state x="495" y="338" key="com.intellij.ide.util.TipDialog/0.23.1600.965@0.23.1600.965" timestamp="1586059916581" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auto_setting_demo$AutoSettingDemoApplication.ic" NAME="AutoSettingDemoApplication Coverage Results" MODIFIED="1578402401109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/auto_setting_demo$.ic" NAME=" Coverage Results" MODIFIED="1570283394953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
